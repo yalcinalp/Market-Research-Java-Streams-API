@@ -45,7 +45,7 @@ The program processes a CSV file with the following structure:
 Run the program with the following command-line syntax:
 
 ```bash
-java YourProgramName <csv_file_name> <question_no>
+java ProgramName <csv_file_name> <question_no>
 ```
 
 - **csv_file_name**: Path to the CSV file containing the purchase data.
