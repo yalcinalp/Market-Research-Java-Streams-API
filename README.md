@@ -1,7 +1,7 @@
-# Market Research Analysis Tool
+# Market Research Analysis Exercise
 
 ## Overview
-The Market Research Analysis Tool for processing and analyzing customer purchase data collected over time. The program reads data from a CSV file, processes it using Java Streams, and provides insights based on specified queries. This project emphasizes efficient data processing by leveraging Java Streams API.
+The Market Research Analysis program is designed to process and analyze customer purchase data collected over time. The program reads data from a CSV file, processes it using Java Streams, and provides insights based on specified queries. This project emphasizes efficient data processing by leveraging Java Streams API.
 
 ## Features
 You can find the questions the program addresses below:
