@@ -54,7 +54,7 @@ java ProgramName <csv_file_name> <question_no>
 ### Example
 To calculate the total quantity of products purchased by customers whose names start with 'A':
 ```bash
-java MarketResearch data.csv 1
+java Streams data.csv 1
 ```
 
 ## Implementation Details
